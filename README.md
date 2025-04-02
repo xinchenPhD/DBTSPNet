@@ -4,7 +4,7 @@
 DBTSP-Net: A Temporal-Spatial Parallel Network with Optuna Optimization for Subject-Specfic Motor Imagery EEG Decoding and Visualiazation
 
 ## Keywords
-Motor imagery (MI), Brain-computer interface (BCI), Electroencephalogram (EEG) decoding, Temporal-Spatial parallel network, Time Transformer, Adaptive weighted feature fusion
+Motor imagery (MI), Brain-computer interface (BCI), Electroencephalogram (EEG) decoding, Temporal-Spatial parallel network, Transformer, Adaptive weighted feature fusion
 
 ## Requirements
 - Python 3.7.0
